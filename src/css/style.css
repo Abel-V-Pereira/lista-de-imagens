@@ -1,0 +1,29 @@
+body {
+    font-family: "Public Sans", sans-serif;    
+}
+
+.lista {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 600px;
+    gap: 20px;
+}
+
+.lista h2 {
+    position: relative;
+    bottom: 108px;
+    left: 25px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.lista h3 {
+    position: relative;
+    bottom: 103px;
+    left: 25px;
+    color: #FFFFFF;
+    font-size: 17px;
+    font-weight: 300;
+}
